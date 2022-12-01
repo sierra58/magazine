@@ -1,2 +1,7 @@
 # magazine
-Magazine | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Magazine
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
